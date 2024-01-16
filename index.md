@@ -28,7 +28,7 @@ sections:
       announcement_items:
         - title: 1. Tipo Pasta Bar
           date: 16 January 2024
-          announcement: A cozy eatery offering build-your-own pastas in the heart of Arab
+          announcement: A cozy eatery offering build-your-own pasta in the heart of Arab
             Street.
           link_text: ""
           link_url: ""
@@ -50,17 +50,17 @@ sections:
       cards:
         - title: Arab Street
           description: A culturally rich location with restaurants, bars, and
-            picture-worthy spots
+            picture-worthy spots.
           linktext: Directions  →
           url: https://maps.app.goo.gl/txbVSABBiMfxvA2C6
         - title: Esplanade
-          description: An arts centre with a complete lifestyle experience, from night
-            shows to dining
+          description: An arts hub with a complete lifestyle experience, from night shows
+            to dining.
           linktext: Directions  →
           url: https://maps.app.goo.gl/gnWWXkrssp3DFo1u7
         - title: Our Tampines Hub
           description: An integrated lifestyle hub offering a range of services in the
-            heartland
+            heartland.
           linktext: Directions →
           url: https://maps.app.goo.gl/V4empN7uPFemaUo26
       subtitle: Exploring Local Delights
