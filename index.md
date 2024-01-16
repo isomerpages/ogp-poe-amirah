@@ -29,21 +29,23 @@ sections:
         - title: 1. Tipo Pasta Bar
           date: 16 January 2024
           announcement: A cozy eatery offering build-your-own pasta in the heart of Arab
-            Street.
+            Street. Known for their Pink Sauce, this diner is not to be missed!
           link_text: ""
           link_url: ""
         - title: 2. (working title) Riverside
           date: 15 January 2024
-          announcement: A WFH-friendly cafe situated along Kallang River.
+          announcement: A WFH-friendly cafe situated along Kallang River with one of the
+            best artisanal coffees and brunch menu in the East.
           link_text: ""
           link_url: ""
-        - title: Ela Jln. Sultan
+        - title: Ela Jalan Sultan
           date: 14 January 2024
           announcement: A family-friendly Greek restaurant offering meals at affordable
-            prices.
+            prices. Their Kotopoulo (chicken) is flavourful and a kids'
+            favourite.
           link_text: ""
           link_url: ""
-      subtitle: Exploring Local Delights
+      subtitle: Author's Pick
   - textcards:
       title: Top 3 Best Places to Hang Out
       id: textcards
