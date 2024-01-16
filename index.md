@@ -39,8 +39,8 @@ sections:
           link_url: ""
         - title: Ela Jln. Sultan
           date: 14 January 2024
-          announcement: "A family-friendly Greek restaurant offering meals at affordable
-            prices. "
+          announcement: A family-friendly Greek restaurant offering meals at affordable
+            prices.
           link_text: ""
           link_url: ""
       subtitle: Exploring Local Delights
@@ -50,7 +50,7 @@ sections:
       cards:
         - title: Arab Street
           description: A culturally rich location with restaurants, bars, and
-            picture-worthy spots.
+            picture-worthy spots
           linktext: Directions  →
           url: https://maps.app.goo.gl/txbVSABBiMfxvA2C6
         - title: Esplanade
@@ -60,7 +60,7 @@ sections:
           url: https://maps.app.goo.gl/gnWWXkrssp3DFo1u7
         - title: Our Tampines Hub
           description: An integrated lifestyle hub offering a range of services in the
-            heartland.
+            heartland
           linktext: Directions →
           url: https://maps.app.goo.gl/V4empN7uPFemaUo26
       subtitle: Exploring Local Delights
