@@ -42,13 +42,14 @@ sections:
           link_text: ""
           link_url: ""
   - textcards:
-      title: Top 3 best places to hang out
+      title: Top 3 Best Places to Hang Out
       id: textcards
       cards:
-        - title: Arab St.
-          description: ""
-          linktext: Directions
-          url: ""
+        - title: Arab Street
+          description: A culturally rich location with restaurants, bars, and
+            picture-worthy spots.
+          linktext: Directions  →
+          url: https://maps.app.goo.gl/txbVSABBiMfxvA2C6
         - title: Esplanade
           description: ""
           linktext: Directions
@@ -57,4 +58,7 @@ sections:
           description: ""
           linktext: Directions
           url: ""
+      subtitle: Exploring Local Delights
+      description: Discover Singapore's best! From delicious bites to refreshing sips,
+        uncover vibrant spots to relax and enjoy in this lion city.
 ---
