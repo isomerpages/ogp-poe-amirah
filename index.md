@@ -4,12 +4,12 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Amirah Humaira
-      subtitle: A UX Designer with a crazy love for cats.
-      background: /images/hero-banner.png
+      subtitle: UX Designer with a love for local foods
+      background: /images/001359330004.jpg
       button: Learn More About Me
       url: https://www.linkedin.com/in/amirh-humaira/
   - announcements:
