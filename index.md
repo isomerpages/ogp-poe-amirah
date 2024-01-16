@@ -7,11 +7,11 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Amirah Humaira
+      subtitle: A UX Designer with a crazy love for cats.
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      button: Learn More About Me
+      url: https://www.linkedin.com/in/amirh-humaira/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
@@ -23,24 +23,27 @@ sections:
           description: Page A is important too
           url: /privacy/
   - announcements:
-      title: Top 3 places with amazing food
+      title: Top 3 Places with Amazing Food
       id: announcements
       announcement_items:
         - title: 1. Tipo Pasta Bar
           date: 16 January 2024
-          announcement: Announcement content
+          announcement: A cozy eatery offering build-your-own pastas in the heart of Arab
+            Street.
           link_text: ""
           link_url: ""
         - title: 2. (working title) Riverside
-          date: 16 January 2024
-          announcement: Announcement content
+          date: 15 January 2024
+          announcement: A WFH-friendly cafe situated along Kallang River.
           link_text: ""
           link_url: ""
         - title: Ela Jln. Sultan
-          date: 16 January 2024
-          announcement: Announcement content
+          date: 14 January 2024
+          announcement: "A family-friendly Greek restaurant offering meals at affordable
+            prices. "
           link_text: ""
           link_url: ""
+      subtitle: Exploring Local Delights
   - textcards:
       title: Top 3 Best Places to Hang Out
       id: textcards
@@ -51,13 +54,15 @@ sections:
           linktext: Directions  →
           url: https://maps.app.goo.gl/txbVSABBiMfxvA2C6
         - title: Esplanade
-          description: ""
-          linktext: Directions
-          url: ""
+          description: An arts centre with a complete lifestyle experience, from night
+            shows to dining
+          linktext: Directions  →
+          url: https://maps.app.goo.gl/gnWWXkrssp3DFo1u7
         - title: Our Tampines Hub
-          description: ""
-          linktext: Directions
-          url: ""
+          description: An integrated lifestyle hub offering a range of services in the
+            heartland.
+          linktext: Directions →
+          url: https://maps.app.goo.gl/V4empN7uPFemaUo26
       subtitle: Exploring Local Delights
       description: Discover Singapore's best! From delicious bites to refreshing sips,
         uncover vibrant spots to relax and enjoy in this lion city.
