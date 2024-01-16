@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Amirah Humaira
       subtitle: UX Designer with a love for local foods
-      background: /images/001359330004.jpg
+      background: /images/header.JPEG
       button: Learn More About Me
       url: https://www.linkedin.com/in/amirh-humaira/
   - announcements:
