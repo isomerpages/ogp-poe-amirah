@@ -3,4 +3,4 @@ links:
   - title: Contact Us
     url: /contact-us/
   - title: Speeches
-    url: /speeches/permalink/
+    collection: speeches
