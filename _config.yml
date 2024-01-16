@@ -2,8 +2,8 @@ title: Title
 url: https://test.com
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#706754"
-  secondary-color: "#e0d7ce"
+  primary-color: "#ffc139"
+  secondary-color: "#3977ff"
   media-colors:
     - title: media-color-one
       color: "#49759a"
