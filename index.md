@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Amirah Humaira
-      subtitle: UX Designer with a love for local foods
+      subtitle: "UX Designer by day, cat pawrent and foodie whenever else. "
       background: /images/header.JPEG
       button: Learn More About Me
       url: https://www.linkedin.com/in/amirh-humaira/
@@ -28,7 +28,7 @@ sections:
             best artisanal coffees and brunch menu in the East.
           link_text: ""
           link_url: ""
-        - title: Ela Jalan Sultan
+        - title: 3. Ela Jalan Sultan
           date: 14 January 2024
           announcement: A family-friendly Greek restaurant offering meals at affordable
             prices. Their Kotopoulo (chicken) is flavourful and a kids'
