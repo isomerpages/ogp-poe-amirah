@@ -29,7 +29,7 @@ sections:
         tour in the US.
       button: Read More
       alt: Image alt text
-      url: /rising-stars/subsoniceye
+      url: /rising-stars/subsoniceye/
   - announcements:
       title: Announcements
       id: announcements
