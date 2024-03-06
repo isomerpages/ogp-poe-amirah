@@ -1,4 +1,5 @@
 collections:
   rising-stars:
     output: true
-    order: []
+    order:
+      - Subsonic Eye.md
