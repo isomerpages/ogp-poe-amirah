@@ -31,15 +31,16 @@ sections:
       alt: Image alt text
       url: /rising-stars/subsoniceye/
   - announcements:
-      title: Announcements
+      title: Upcoming Shows
       id: announcements
-      subtitle: Add a list of announcements with dates
+      subtitle: Stay In The Loop
       announcement_items:
-        - title: New Announcement
-          date: 06 March 2024
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
+        - title: "Avenged Sevenfold Jakarta: The Only Stop In Asia"
+          date: 25 May 2024
+          announcement: Avenged Sevenfold returns to greet their Indonesian fans after 8
+            years. Their concert in Jakarta will be the ONLY stop in Asia.
+          link_text: BUY TICKETS
+          link_url: /upcoming-shows/avengedsevenfold/
   - infobar:
       title: Infobar
       subtitle: Add informational text
