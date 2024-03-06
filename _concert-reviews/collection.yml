@@ -1,0 +1,4 @@
+collections:
+  concert-reviews:
+    output: true
+    order: []
