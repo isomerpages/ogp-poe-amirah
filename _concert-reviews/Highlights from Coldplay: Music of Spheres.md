@@ -4,3 +4,4 @@ permalink: /concert-reviews/coldplay/
 variant: tiptap
 description: ""
 ---
+<p></p>
