@@ -1,0 +1,4 @@
+collections:
+  rising-stars:
+    output: true
+    order: []
