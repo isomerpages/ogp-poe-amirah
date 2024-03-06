@@ -1,11 +1,12 @@
 logo: /images/smiley.png
 links:
+  - title: About Us
+    url: /permalink
+  - title: Concert Reviews
+    collection: concert-reviews
+  - title: Rising Stars
+    collection: rising-stars
+  - title: Upcoming Shows
+    collection: upcoming-shows
   - title: Get In Touch
     url: /contact-us/
-  - title: Reviews
-    url: /permalink
-    sublinks:
-      - title: Coldplay
-        url: /permalink
-      - title: Taylor Swift
-        url: /permalink
