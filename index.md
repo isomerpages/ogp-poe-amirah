@@ -23,11 +23,13 @@ sections:
       subtitle: Subtitle
   - infopic:
       title: Infopic
-      subtitle: Add an image and text
+      subtitle: Rising Star
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: Singaporean dream pop/shoegaze band among the few local talents to
+        tour in the US.
+      button: Read More
       alt: Image alt text
+      url: /rising-stars/subsoniceye
   - announcements:
       title: Announcements
       id: announcements
