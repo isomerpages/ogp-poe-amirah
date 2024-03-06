@@ -4,8 +4,8 @@ title: Amirah Humaira
 description: An Isomer site of the Singapore Government
 image: /images/smiley.png
 permalink: /
-notification: "Welcome, music freaks! Subscribe to our mailing list and stand a
-  chance to win 2 tickets to Bruno Mars Live in Singapore. "
+notification: Welcome, music freaks! Follow our Instagram and stand a chance to
+  win 2 tickets to Bruno Mars Live in Singapore.
 sections:
   - hero:
       title: Title
