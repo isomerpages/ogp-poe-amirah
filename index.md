@@ -55,10 +55,10 @@ sections:
       description: Infobar description
       button: Button Text
   - textcards:
-      title: Top 5 Must Listens
+      title: Top 3 Must Listens
       subtitle: Discover Weekly
       id: textcards
-      description: A curated list of artists to tune in to, updated weekly.
+      description: Tune in to our favourite songs for the week!
       cards:
         - title: Card
           description: Card description
