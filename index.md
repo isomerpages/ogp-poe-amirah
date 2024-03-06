@@ -46,7 +46,7 @@ sections:
           date: 03 April 2024
           announcement: Fourteen-time GRAMMY Award winner and thirty-time GRAMMY Award
             nominee Bruno Mars returns to perform for 3-nights in Singapore.
-          link_text: FIND OUT MORE
+          link_text: FIND OUT MORE >
           link_url: /upcoming-shows/brunomars/
   - infobar:
       title: Infobar
@@ -54,4 +54,22 @@ sections:
       id: infobar
       description: Infobar description
       button: Button Text
+  - textcards:
+      title: Top 5 Must Listens
+      subtitle: Discover Weekly
+      id: textcards
+      description: A curated list of artists to tune in to, updated weekly.
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
