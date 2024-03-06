@@ -2,5 +2,6 @@ collections:
   rising-stars:
     output: true
     order:
+      - Joe Keery aka Djo.md
       - AlexTbh.md
       - Subsonic Eye.md
