@@ -1,6 +1,6 @@
 title: Amirah Humaira
 url: https://test.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/smiley.png
 colors:
   primary-color: "#3977ff"
   secondary-color: "#f5a623"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.dzy5njavmwy46.amplifyapp.com
 prod: https://master.d3fq0h6z41f69v.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/smiley.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
