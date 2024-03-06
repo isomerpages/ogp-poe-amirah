@@ -60,16 +60,16 @@ sections:
       id: textcards
       description: Tune in to our favourite songs for the week!
       cards:
-        - title: Card
-          description: Card description
+        - title: DJo - End of Beginning
+          description: Trending psychedelic rock hit by Stranger Things actor Joe Keeny
+          linktext: LISTEN
+          url: https://youtu.be/EoVQ_TQFJy0?feature=shared
+        - title: Laufey - From The Start
+          description: A modern twist to classical-jazz tunes with lyrics relatable to many
           linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+          url: https://youtu.be/VArOUfVOjqI?feature=shared
+        - title: Avenged Sevenfold - Dear God
+          description: An Avenged Sevenfold classic loved even by non-metal heads
+          linktext: LISTEN
+          url: https://youtu.be/nzCIeNhw8oE?feature=shared
 ---
