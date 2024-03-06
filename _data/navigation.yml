@@ -2,5 +2,10 @@ logo: /images/smiley.png
 links:
   - title: Get In Touch
     url: /contact-us/
-  - title: What It Means
+  - title: Reviews
     url: /permalink
+    sublinks:
+      - title: Coldplay
+        url: /permalink
+      - title: Taylor Swift
+        url: /permalink
