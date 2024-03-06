@@ -4,58 +4,16 @@ title: Amirah Humaira
 description: An Isomer site of the Singapore Government
 image: /images/smiley.png
 permalink: /
-notification: ""
+notification: Welcome, minions
 sections:
   - hero:
-      title: Amirah Humaira
-      subtitle: UX Designer by day, cat pawrent and foodie whenever else.
+      title: Ayo
       background: /images/header.JPEG
-      button: Learn More About Me
-      url: https://www.linkedin.com/in/amirh-humaira/
-  - announcements:
-      title: Top 3 Places with Amazing Food
-      id: announcements
-      announcement_items:
-        - title: 1. Tipo Pasta Bar
-          date: 16 January 2024
-          announcement: A cozy eatery offering build-your-own pasta in the heart of Arab
-            Street. Known for their Pink Sauce, this diner is not to be missed!
-          link_text: ""
-          link_url: ""
-        - title: 2. (working title) Riverside
-          date: 15 January 2024
-          announcement: A WFH-friendly cafe situated along Kallang River with one of the
-            best artisanal coffees and brunch menu in the East.
-          link_text: ""
-          link_url: ""
-        - title: 3. Ela Jalan Sultan
-          date: 14 January 2024
-          announcement: A family-friendly Greek restaurant offering meals at affordable
-            prices. Their Kotopoulo (chicken) is flavourful and a kids'
-            favourite.
-          link_text: ""
-          link_url: ""
-      subtitle: Author's Pick
-  - textcards:
-      title: Top 3 Best Places to Hang Out
-      id: textcards
-      cards:
-        - title: Arab Street
-          description: A culturally rich location with restaurants, bars, and
-            picture-worthy spots.
-          linktext: Directions  →
-          url: https://maps.app.goo.gl/txbVSABBiMfxvA2C6
-        - title: Esplanade
-          description: An arts hub with a complete lifestyle experience, from night shows
-            to dining.
-          linktext: Directions  →
-          url: https://maps.app.goo.gl/gnWWXkrssp3DFo1u7
-        - title: Our Tampines Hub
-          description: An integrated lifestyle hub offering a range of services in the
-            heartland.
-          linktext: Directions →
-          url: https://maps.app.goo.gl/V4empN7uPFemaUo26
-      subtitle: Exploring Local Delights
-      description: Discover Singapore's best! From delicious bites to refreshing sips,
-        uncover vibrant spots to relax and enjoy in this lion city.
+      dropdown:
+        title: hgi
+        options: []
+      variant: floating
+      size: sm
+      alignment: left
+      backgroundColor: gray
 ---
