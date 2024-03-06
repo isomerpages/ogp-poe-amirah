@@ -2,13 +2,13 @@
 layout: homepage
 title: Amirah Humaira
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/smiley.png
 permalink: /
 notification: ""
 sections:
   - hero:
       title: Amirah Humaira
-      subtitle: "UX Designer by day, cat pawrent and foodie whenever else. "
+      subtitle: UX Designer by day, cat pawrent and foodie whenever else.
       background: /images/header.JPEG
       button: Learn More About Me
       url: https://www.linkedin.com/in/amirh-humaira/
