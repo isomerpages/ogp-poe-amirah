@@ -2,4 +2,4 @@ collections:
   concert-reviews:
     output: true
     order:
-      - "Highlights from Coldplay: Music of Spheres.md"
+      - "Highlights from Coldplay: Music of the Spheres.md"
