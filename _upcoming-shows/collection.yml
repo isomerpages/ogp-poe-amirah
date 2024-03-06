@@ -1,0 +1,4 @@
+collections:
+  upcoming-shows:
+    output: true
+    order: []
