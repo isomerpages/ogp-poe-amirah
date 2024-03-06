@@ -22,8 +22,8 @@ sections:
           url: ""
       subtitle: Subtitle
   - infopic:
-      title: Infopic
-      subtitle: Rising Star
+      title: Subsonic Eye
+      subtitle: Local Rising Star
       id: infopic
       description: Singaporean dream pop/shoegaze band among the few local talents to
         tour in the US.
@@ -40,20 +40,14 @@ sections:
           announcement: Avenged Sevenfold goes on tour to greet their Indonesian fans
             after 8 years. Their concert in Jakarta will be the ONLY stop in
             Asia.
-          link_text: FIND OUT MORE >
+          link_text: FIND OUT MORE
           link_url: /upcoming-shows/avengedsevenfold/
         - title: Bruno Mars Live in Singapore
           date: 03 April 2024
           announcement: Fourteen-time GRAMMY Award winner and thirty-time GRAMMY Award
             nominee Bruno Mars returns to perform for 3-nights in Singapore.
-          link_text: FIND OUT MORE >
+          link_text: FIND OUT MORE
           link_url: /upcoming-shows/brunomars/
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Button Text
   - textcards:
       title: Top 3 Must Listens
       subtitle: Discover Weekly
@@ -66,10 +60,16 @@ sections:
           url: https://youtu.be/EoVQ_TQFJy0?feature=shared
         - title: Laufey - From The Start
           description: A modern twist to classical-jazz tunes with lyrics relatable to many
-          linktext: Learn more
+          linktext: LISTEN
           url: https://youtu.be/VArOUfVOjqI?feature=shared
         - title: Avenged Sevenfold - Dear God
           description: An Avenged Sevenfold classic loved even by non-metal heads
           linktext: LISTEN
           url: https://youtu.be/nzCIeNhw8oE?feature=shared
+  - infobar:
+      title: Infobar
+      subtitle: Add informational text
+      id: infobar
+      description: Infobar description
+      button: Button Text
 ---
