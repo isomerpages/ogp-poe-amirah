@@ -1,4 +1,5 @@
 collections:
   concert-reviews:
     output: true
-    order: []
+    order:
+      - "Highlights from Coldplay: Music of Spheres.md"
