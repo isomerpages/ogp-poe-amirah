@@ -37,8 +37,9 @@ sections:
       announcement_items:
         - title: "Avenged Sevenfold Jakarta: The Only Stop In Asia"
           date: 25 May 2024
-          announcement: Avenged Sevenfold returns to greet their Indonesian fans after 8
-            years. Their concert in Jakarta will be the ONLY stop in Asia.
+          announcement: Avenged Sevenfold goes on tour to greet their Indonesian fans
+            after 8 years. Their concert in Jakarta will be the ONLY stop in
+            Asia.
           link_text: BUY TICKETS
           link_url: /upcoming-shows/avengedsevenfold/
   - infobar:
