@@ -2,4 +2,5 @@ collections:
   concert-reviews:
     output: true
     order:
+      - "Highlights from Taylor Swift: The Eras tour.md"
       - "Highlights from Coldplay: Music of the Spheres.md"
