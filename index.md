@@ -40,8 +40,14 @@ sections:
           announcement: Avenged Sevenfold goes on tour to greet their Indonesian fans
             after 8 years. Their concert in Jakarta will be the ONLY stop in
             Asia.
-          link_text: BUY TICKETS
+          link_text: FIND OUT MORE >
           link_url: /upcoming-shows/avengedsevenfold/
+        - title: Bruno Mars Live in Singapore
+          date: 03 April 2024
+          announcement: Fourteen-time GRAMMY Award winner and thirty-time GRAMMY Award
+            nominee Bruno Mars returns to perform for 3-nights in Singapore.
+          link_text: FIND OUT MORE
+          link_url: /upcoming-shows/brunomars/
   - infobar:
       title: Infobar
       subtitle: Add informational text
