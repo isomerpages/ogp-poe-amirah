@@ -4,7 +4,8 @@ title: Amirah Humaira
 description: An Isomer site of the Singapore Government
 image: /images/smiley.png
 permalink: /
-notification: ""
+notification: "Welcome, music freaks! Subscribe to our mailing list and stand a
+  chance to win 2 tickets to Bruno Mars Live in Singapore. "
 sections:
   - hero:
       title: Title
@@ -21,6 +22,14 @@ sections:
           description: Concert Review
           url: ""
       subtitle: Subtitle
+  - infobar:
+      title: Free Tickets to See Bruno Mars!
+      subtitle: Giveaway
+      id: infobar
+      description: Simply follow us on Instagram to stand a chance to win 2 tickets to
+        see Bruno Mars Live in Singapore happening this April.
+      button: FOLLOW US NOW
+      url: hi
   - infopic:
       title: Subsonic Eye
       subtitle: Local Rising Star
@@ -66,10 +75,4 @@ sections:
           description: An Avenged Sevenfold classic loved even by non-metal heads
           linktext: LISTEN
           url: https://youtu.be/nzCIeNhw8oE?feature=shared
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Button Text
 ---
