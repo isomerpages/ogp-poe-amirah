@@ -2,4 +2,5 @@ collections:
   rising-stars:
     output: true
     order:
+      - AlexTbh.md
       - Subsonic Eye.md
