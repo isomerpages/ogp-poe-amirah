@@ -1,7 +1,7 @@
 logo: /images/smiley.png
 links:
   - title: About Us
-    url: /permalink
+    url: /about-us
   - title: Concert Reviews
     collection: concert-reviews
   - title: Rising Stars
