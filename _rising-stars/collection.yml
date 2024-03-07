@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - "Local: Subsonic Eye.md"
-      - AlexTbh.md
+      - "Regional: AlexTbh.md"
       - Joe Keery aka Djo.md
