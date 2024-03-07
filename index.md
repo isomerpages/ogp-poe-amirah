@@ -9,7 +9,7 @@ notification: Welcome, music freaks! Follow our Instagram and stand a chance to
 sections:
   - hero:
       title: Title
-      background: /images/header.JPEG
+      background: /images/concertcrowd.png
       variant: image
       size: sm
       alignment: left
