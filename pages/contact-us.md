@@ -14,8 +14,8 @@ locations:
       - 36 Robinson Rd
       - Singapore 068877
       - ""
-    title: City House
     operating_hours: []
     maps_link: ""
+    title: City House
 feedback: ""
 ---
