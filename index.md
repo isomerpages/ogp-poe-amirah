@@ -17,10 +17,10 @@ sections:
       key_highlights:
         - title: "Coldplay: Music Of The Spheres"
           description: Concert Review
-          url: ""
+          url: /concert-reviews/coldplay/
         - title: "Taylor Swift: The Eras Tour"
           description: Concert Review
-          url: ""
+          url: /concert-reviews/taylorswift/
       subtitle: Singapore's Trusted Guide to All Things Music
   - infobar:
       title: Free Tickets to See Bruno Mars!
