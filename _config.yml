@@ -2,8 +2,8 @@ title: Encore
 url: https://test.com
 favicon: /images/smiley.png
 colors:
-  primary-color: "#3977ff"
-  secondary-color: "#f5a623"
+  primary-color: "#d0021b"
+  secondary-color: "#4a4a4a"
   media-colors:
     - title: media-color-one
       color: "#49759a"
