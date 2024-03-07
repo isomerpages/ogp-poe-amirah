@@ -1,6 +1,6 @@
 title: Encore
 url: https://test.com
-favicon: /images/smiley.png
+favicon: /images/concerticon.jpg
 colors:
   primary-color: "#d0021b"
   secondary-color: "#4a4a4a"
@@ -52,7 +52,7 @@ plugins:
 staging: https://staging-lite.dzy5njavmwy46.amplifyapp.com
 prod: https://master.d3fq0h6z41f69v.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/smiley.png
+shareicon: /images/concerticon.jpg
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
