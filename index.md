@@ -51,13 +51,13 @@ sections:
             after 8 years. Their concert in Jakarta will be the ONLY stop in
             Asia.
           link_text: FIND OUT MORE
-          link_url: /upcoming-shows/avengedsevenfold/
+          link_url: https://go.gov.sg/pvbxky
         - title: Bruno Mars Live in Singapore
           date: 03 April 2024
           announcement: Fourteen-time GRAMMY Award winner and thirty-time GRAMMY Award
             nominee Bruno Mars returns to perform for 3-nights in Singapore.
           link_text: FIND OUT MORE
-          link_url: /upcoming-shows/brunomars/
+          link_url: https://go.gov.sg/rporwg
   - textcards:
       title: Top 3 Must Listens
       subtitle: Discover Weekly
