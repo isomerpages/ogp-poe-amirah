@@ -8,9 +8,9 @@ notification: Welcome, music freaks! Follow our Instagram and stand a chance to
   win 2 tickets to Bruno Mars Live in Singapore.
 sections:
   - hero:
-      title: Title
+      title: Encore
       background: /images/concertcrowd.png
-      variant: image
+      variant: center
       size: sm
       alignment: left
       backgroundColor: gray
@@ -21,7 +21,7 @@ sections:
         - title: "Taylor Swift: The Eras Tour"
           description: Concert Review
           url: ""
-      subtitle: Subtitle
+      subtitle: Singapore's Trusted Guide to All Things Music
   - infobar:
       title: Free Tickets to See Bruno Mars!
       subtitle: Giveaway
