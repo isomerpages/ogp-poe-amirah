@@ -29,7 +29,7 @@ sections:
       description: Simply follow us on Instagram to stand a chance to win 2 tickets to
         see Bruno Mars Live in Singapore happening this April.
       button: FOLLOW US NOW
-      url: hi
+      url: https://go.gov.sg/lpggcz
   - infopic:
       title: Subsonic Eye
       subtitle: Local Rising Star
