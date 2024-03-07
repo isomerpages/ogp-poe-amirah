@@ -2,5 +2,6 @@ collections:
   concert-reviews:
     output: true
     order:
+      - "Review: TWICE Live in Singapore 2023.md"
       - "Review of Coldplay: Music of the Spheres.md"
       - "Review of Taylor Swift: The Eras Tour.md"
