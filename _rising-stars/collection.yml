@@ -2,6 +2,6 @@ collections:
   rising-stars:
     output: true
     order:
-      - Subsonic Eye.md
+      - "Local: Subsonic Eye.md"
       - AlexTbh.md
       - Joe Keery aka Djo.md
