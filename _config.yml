@@ -2,7 +2,7 @@ title: Encore
 url: https://test.com
 favicon: /images/concerticon.jpg
 colors:
-  primary-color: "#f8e71c"
+  primary-color: "#f5a623"
   secondary-color: "#d0021b"
   media-colors:
     - title: media-color-one
