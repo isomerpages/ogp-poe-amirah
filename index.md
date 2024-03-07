@@ -39,6 +39,7 @@ sections:
       button: Read More
       alt: Image alt text
       url: /rising-stars/subsoniceye/
+      image: /images/subsoniceye.jpg
   - announcements:
       title: Upcoming Shows
       id: announcements
