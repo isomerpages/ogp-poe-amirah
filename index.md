@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Amirah Humaira
+title: Encore
 description: An Isomer site of the Singapore Government
 image: /images/smiley.png
 permalink: /
