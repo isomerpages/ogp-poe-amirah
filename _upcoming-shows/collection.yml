@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Local Shows/.keep
-      - Bruno Mars Live in Singapore.md
       - Avenged Sevenfold Live in Jakarta.md
