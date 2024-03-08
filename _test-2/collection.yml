@@ -2,5 +2,6 @@ collections:
   test-2:
     output: true
     order:
+      - 02/.keep
       - 01/01 Test.md
       - 01/.keep
