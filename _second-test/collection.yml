@@ -2,6 +2,7 @@ collections:
   second-test:
     output: true
     order:
+      - 02/02 Test.md
       - 02/.keep
       - 01/01 Test.md
       - 01/.keep
