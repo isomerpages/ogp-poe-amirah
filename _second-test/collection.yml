@@ -1,5 +1,5 @@
 collections:
-  test-2:
+  second-test:
     output: true
     order:
       - 02/.keep
