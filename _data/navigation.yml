@@ -7,11 +7,6 @@ links:
   - title: Rising Stars
     collection: rising-stars
   - title: Upcoming Shows
-    url: /upcoming-shows/
-    sublinks:
-      - title: Avenged Sevenfold May'24
-        url: https://go.gov.sg/pvbxky
-      - title: Bruno Mars Apr'24
-        url: https://go.gov.sg/rporwg
+    collection: upcoming-shows
   - title: Get In Touch
     url: /contact-us/
