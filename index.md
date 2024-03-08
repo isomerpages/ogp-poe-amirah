@@ -30,6 +30,10 @@ sections:
         see Bruno Mars Live in Singapore happening this April.
       button: FOLLOW US NOW
       url: https://go.gov.sg/lpggcz
+  - resources:
+      title: Past Weekly Shares
+      subtitle: Explore Weekly
+      id: resources
   - infopic:
       title: Subsonic Eye
       subtitle: Local Rising Star
