@@ -17,7 +17,7 @@ Willows. As someone who followed the band's journey from the start to their
 indefinite hiatus, it was surely nostalgic seeing the four back together
 on stage.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IE-SOF64RX0?si=9EXLS1MHyy4QKIOE&amp;controls=0"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IE-SOF64RX0?si=9EXLS1MHyy4QKIOE&amp;controls=0"></iframe>
 </div>
 <p>Whilst waiting for Chris Martin and the band to come on stage, a broadcast
 highlighted Coldplay's initiatives to go green. Learning about the band's
