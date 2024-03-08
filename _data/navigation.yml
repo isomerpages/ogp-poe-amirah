@@ -7,8 +7,6 @@ links:
   - title: Rising Stars
     collection: rising-stars
   - title: Upcoming Shows
-    collection: upcoming-shows
-  - title: Upcoming Shows
     url: /upcoming-shows
     sublinks:
       - title: Avenged Sevenfold May'24
@@ -17,3 +15,5 @@ links:
         url: https://go.gov.sg/rporwg
   - title: Get In Touch
     url: /contact-us/
+  - title: Test
+    resource_room: true
