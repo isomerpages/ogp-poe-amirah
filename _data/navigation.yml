@@ -17,3 +17,5 @@ links:
     url: /contact-us/
   - title: Test
     resource_room: true
+  - title: Second Test
+    collection: second-test
