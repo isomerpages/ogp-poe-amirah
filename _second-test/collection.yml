@@ -1,0 +1,8 @@
+collections:
+  second-test:
+    output: true
+    order:
+      - 01/.keep
+      - 01/01 Test.md
+      - 02/.keep
+      - 02/02 Test.md

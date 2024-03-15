@@ -1,0 +1,7 @@
+collections:
+  rising-stars:
+    output: true
+    order:
+      - "Local: Subsonic Eye.md"
+      - "Regional: AlexTbh.md"
+      - "International: Joe Keery aka Djo.md"

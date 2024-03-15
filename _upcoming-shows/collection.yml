@@ -1,0 +1,8 @@
+collections:
+  upcoming-shows:
+    output: true
+    order:
+      - Regional Shows/Avenged Sevenfold Live in Jakarta.md
+      - Regional Shows/.keep
+      - Local Shows/Bruno Mars Live in Singapore.md
+      - Local Shows/.keep
