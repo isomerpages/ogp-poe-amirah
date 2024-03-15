@@ -35,7 +35,7 @@ lit up the stadium in colours only capturable in real-time.</p>
 as well. On the fourth night - the night I attended, Chris dedicated Everglow
 to fans who have lost someone important in their lives. It was truly a
 heartwarming and emotional section of the concert that will be remembered
-by fans for a lifetime.</p>
+by fans for a lifetime.Hellooooooooo</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="https://www.tnp.sg/sites/default/files/styles/image_embed/public/ry.jpg?itok=cGCPrGKb">
